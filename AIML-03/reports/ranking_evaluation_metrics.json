@@ -1,0 +1,17 @@
+{
+    "evaluated_records": 1311,
+    "rmse": 1.2211281402172,
+    "mae": 0.944584133877816,
+    "mse": 1.4911539348303176,
+    "baseline_rmse": 1.122162103652954,
+    "baseline_mae": 0.8625643849372864,
+    "prediction_min": 0.5,
+    "prediction_max": 5.0,
+    "prediction_mean": 3.730025657072584,
+    "prediction_std": 0.9778810306328349,
+    "recall_at_10": 0.5050591178052326,
+    "ndcg_at_10": 0.6788517596695988,
+    "ranking_users_evaluated": 28,
+    "relevance_threshold": 4.0,
+    "ranking_candidate_scope": "Per-user held-out test records"
+}

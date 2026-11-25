@@ -1,0 +1,43 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+
+# Model cache
+.cache/
+*.cache
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system
+.DS_Store
+Thumbs.db
+wandb/
+
+# Python environments and cache
+**/.venv*/
+**/__pycache__/
+*.pyc
+
+# ROS 2 generated folders
+**/build/
+**/install/
+**/log/
+
+# Generated experiment files
+**/runs/
+wandb/
+
+# Temporary files
+*.tmp
+datasets/kitti/

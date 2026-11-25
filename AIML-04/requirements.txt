@@ -1,0 +1,12 @@
+ultralytics
+opencv-python
+torch
+torchvision
+numpy
+matplotlib
+timm
+transformers
+huggingface-hub
+onnx
+pytest
+pillow

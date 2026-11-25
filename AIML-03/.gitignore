@@ -1,0 +1,26 @@
+.venv/
+__pycache__/
+.env
+*.pyc
+*.log
+logs/
+data/
+datasets/
+*.csv
+*.db
+*.sqlite
+*.pt
+*.pth
+*.onnx
+.ipynb_checkpoints/
+*.onnx.data
+!data/
+!data/processed/
+!data/processed/clean_movies.csv
+!reports/cold_start_popular.csv
+# Include processed datasets required by the project
+!data/
+!data/processed/
+!data/processed/clean_ratings.csv
+!data/processed/train.csv
+!data/processed/test.csv

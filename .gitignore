@@ -1,0 +1,13 @@
+**/.venv/
+**/venv/
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/build/
+**/dist/
+**/runs/
+**/wandb/
+**/outputs/
+**/log/
+**/logs/
+**/perception_ws/
